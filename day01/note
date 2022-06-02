@@ -1,6 +1,6 @@
 Ctrl + shift + L = multi cursors at selection
 Ctrl + alt + <arrow-up/down> => multi cursor above/below
-
+Alt + shift + arrow-down = copy the whole line
 Hold Alt to create multi cursors
 Esc
 
